@@ -17,6 +17,7 @@ module.exports = {
   rules: {
     'space-before-function-paren': ['error', 'never'],
     'vue/singleline-html-element-content-newline': 'off',
-    'vue/html-self-closing': 'off'
+    'vue/html-self-closing': 'off',
+    'vue/attributes-or': 'off'
   }
 }
